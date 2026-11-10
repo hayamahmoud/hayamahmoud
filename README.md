@@ -25,8 +25,8 @@ Outside of that I'm usually in the middle of some assignment, some side project,
 ## What I've been building with
 
 **Languages:** C · Python · Java · JavaScript · TypeScript · HTML/CSS · SQL  
-**Frameworks:** React · Next.js · Node.js · Express.js 
-**Data & AI:** Pandas · Matplotlib · Google Cloud (GCP) · Amazon Web Services (AWS)
+**Frameworks:** React · Next.js · Node.js · Express.js  
+**Data & AI:** Pandas · Matplotlib · Google Cloud (GCP) · Amazon Web Services (AWS)  
 **Tools:** Git · Bash · Docker · Kubernetes
 
 ---
