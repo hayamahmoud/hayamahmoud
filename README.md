@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Haya 👋</h1>
+<h1 align="center">Hey there, I'm Haya!</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hayamahmoud/">
@@ -14,7 +14,7 @@
 
 ---
 
-I'm a third year Software Engineering Co-op student at the University of Guelph, with a focus on AI. I like building things that actually get used.
+I'm a third year Software Engineering Co-op student at the University of Guelph, with a specialization in Artificial Intelligence. I like building stuff that actually get used.
 
 I am currently working at **FreshBooks** as a **Full Stack Software Developer Co-op** where I contribute to the Projects and Payroll Engineering team, team TNG (The Next Generation). 
 
@@ -25,9 +25,9 @@ Outside of that I'm usually in the middle of some assignment, some side project,
 ## What I've been building with
 
 **Languages:** C · Python · Java · JavaScript · TypeScript · HTML/CSS · SQL  
-**Frameworks:** React · Next.js · Node.js · Express.js  
-**Data & AI:** Pandas · Matplotlib · Google Cloud (GCP)  
-**Tools:** Git · Bash · Docker
+**Frameworks:** React · Next.js · Node.js · Express.js 
+**Data & AI:** Pandas · Matplotlib · Google Cloud (GCP) · Amazon Web Services (AWS)
+**Tools:** Git · Bash · Docker · Kubernetes
 
 ---
 
