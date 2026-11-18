@@ -15,7 +15,7 @@
 
 <br>
 
-I'm a third-year Software Engineering Co-op student at the University of Guelph, with an area of emphasis in Artificial Intelligence. I like building stuff that actually gets used.
+I'm a third-year Software Engineering Co-op student at the University of Guelph, with an area of emphasis in Artificial Intelligence. Fun fact I was born and raised in Guelph!
 
 I am currently working at **FreshBooks** as a **Full Stack Software Developer Co-op** where I contribute to the Projects and Payroll Engineering team, team TNG (The Next Generation).
 
